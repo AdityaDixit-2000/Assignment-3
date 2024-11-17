@@ -1,0 +1,22 @@
+body {
+    background-color: #c35f5f;
+    color: wheat;
+    text-align: center;
+    padding: 22px;
+}
+h3:hover{
+    color: rgba(167, 57, 93, 0.584);
+}
+button{
+    border: 3px solid #0000008b;
+    border-radius: 8px;
+    width: 60px;
+    padding: 3px;
+    color: rgba(223, 131, 20, 0.888);
+    background-color: beige;
+    margin: 12px;
+}
+button:hover{
+    color: brown;
+    background-color: chartreuse;
+}
